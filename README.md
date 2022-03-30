@@ -1,17 +1,12 @@
+- 🔥 Estudante da RocketSeat
 
+- 🔭 Atualmente trabalho na Union of Projects!
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- ▶️ Conteúdos Off
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+- 💬 Pergunte sobre **JavaScript, HTML, CSS, SQL, Node.JS**
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
-
-- ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
+- ⚡ Curiosidade **Oneye 😜**
 
 
 ## 👨🏽‍🦲 &nbsp;Social Links
